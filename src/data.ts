@@ -14,6 +14,7 @@ export const data = {
   p3: 'Цифровые квадратные метры жилой недвижимости – это инновационный продукт, выпускаемый в формате ЦФА.',
   cfaNumber: 'EMAR-1-DTD-092024-00073',
   cfaPrice: '350 $',
+  cfaPriceNumber: 350,
   cfaVolume: 'от 175 000 $ до 7 000 000 $',
   cfaVolumeM2: 'от 50 м2 до 2 000 м2',
   cfaPeriodPayment: 'В конце срока',
